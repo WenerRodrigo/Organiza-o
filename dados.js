@@ -6,7 +6,7 @@ var precoFinal = preco + imposto;
 
 
 console.log(nome);
-console.log(quantidade); // valor literal
+console.log(quantidade); 
 console.log(preco);
 console.log(imposto);
 console.log(precoFinal);
