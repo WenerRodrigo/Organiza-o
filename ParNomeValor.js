@@ -1,11 +1,10 @@
-// par nome/valor
-const saudacao = 'opa' //contexto léxico 1
+const saudacao = 'opa'
 
 function exec(){
-    const saudacao = 'falaaa' // contexto léxico 2
+    const saudacao = 'fala'
     return saudacao
 }
-// objetos são grupos aninhados de pares nome/valor
+
 const cliente = {
     nome: 'wener',
     idade: 27,
